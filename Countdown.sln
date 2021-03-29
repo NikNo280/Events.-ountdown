@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTimer", "CustomTimer\CustomTimer.csproj", "{952782D6-33D5-44A3-A772-CBEB608C5D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTimer.Tests", "CustomTimer.Tests\CustomTimer.Tests.csproj", "{7A288B3F-2432-484B-8A41-3BD74343BECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952782D6-33D5-44A3-A772-CBEB608C5D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952782D6-33D5-44A3-A772-CBEB608C5D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952782D6-33D5-44A3-A772-CBEB608C5D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952782D6-33D5-44A3-A772-CBEB608C5D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A288B3F-2432-484B-8A41-3BD74343BECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A288B3F-2432-484B-8A41-3BD74343BECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A288B3F-2432-484B-8A41-3BD74343BECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A288B3F-2432-484B-8A41-3BD74343BECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E51FB05-BCAE-4F1D-851F-C37D83B4211A}
+	EndGlobalSection
+EndGlobal
